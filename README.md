@@ -1,2 +1,2 @@
 # SmileCam
-Get snapshot automatically when find smile by B5T-007001
+Get snapshot automatically when found smile by B5T-007001
